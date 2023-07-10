@@ -1,72 +1,66 @@
-{
-    "core": [],
-    "extension": [
-        {
-            "repo": "mo-jinran/chii-devtools",
-            "branch": "main"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-VConsole",
-            "branch": "master"
-        },
-        {
-            "repo": "mo-jinran/window-on-top",
-            "branch": "main"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
-            "branch": "master"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
-            "branch": "master"
-        },
-        {
-            "repo": "FW27623/remove_qqgame_center",
-            "branch": "main"
-        },
-        {
-            "repo": "cookieiz/LiteLoaderQQNT-RemoveZone",
-            "branch": "main"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-Kill-Update",
-            "branch": "master"
-        },
-        {
-            "repo": "mo-jinran/linux-qqnt-background-blur",
-            "branch": "main"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
-            "branch": "master"
-        },
-        {
-            "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Fanhuaji",
-            "branch": "main"
-        },
-        {
-            "repo": "xinyihl/LiteLoaderQQNT-RemoveSidebar",
-            "branch": "main"
-        },
-        {
-            "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Demo-mode",
-            "branch": "main"
-        }
-    ],
-    "theme": [
-        {
-            "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
-            "branch": "main"
-        },
-        {
-            "repo": "festoney8/LiteLoaderQQNT-Wechat-Theme",
-            "branch": "main"
-        },
-        {
-            "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
-            "branch": "master"
-        }
-    ],
-    "framework": []
-}
+[
+    {
+        "repo": "mo-jinran/chii-devtools",
+        "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-VConsole",
+        "branch": "master"
+    },
+    {
+        "repo": "mo-jinran/window-on-top",
+        "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
+        "branch": "master"
+    },
+    {
+        "repo": "FW27623/remove_qqgame_center",
+        "branch": "main"
+    },
+    {
+        "repo": "cookieiz/LiteLoaderQQNT-RemoveZone",
+        "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Kill-Update",
+        "branch": "master"
+    },
+    {
+        "repo": "mo-jinran/linux-qqnt-background-blur",
+        "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
+        "branch": "master"
+    },
+    {
+        "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Fanhuaji",
+        "branch": "main"
+    },
+    {
+        "repo": "xinyihl/LiteLoaderQQNT-RemoveSidebar",
+        "branch": "main"
+    },
+    {
+        "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Demo-mode",
+        "branch": "main"
+    },
+    {
+        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
+        "branch": "main"
+    },
+    {
+        "repo": "festoney8/LiteLoaderQQNT-Wechat-Theme",
+        "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
+        "branch": "master"
+    }
+]
