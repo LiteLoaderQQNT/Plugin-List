@@ -1,66 +1,82 @@
 [
     {
         "repo": "mo-jinran/chii-devtools",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-VConsole",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     },
     {
         "repo": "mo-jinran/window-on-top",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     },
     {
         "repo": "FW27623/remove_qqgame_center",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "cookieiz/LiteLoaderQQNT-RemoveZone",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Kill-Update",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     },
     {
         "repo": "mo-jinran/linux-qqnt-background-blur",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     },
     {
         "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Fanhuaji",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xinyihl/LiteLoaderQQNT-RemoveSidebar",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "qianxu2001/LiteLoaderQQNT-Plugin-Demo-mode",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "festoney8/LiteLoaderQQNT-Wechat-Theme",
-        "branch": "main"
+        "branch": "main",
+        "useRelease": false
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
-        "branch": "master"
+        "branch": "master",
+        "useRelease": false
     }
 ]
