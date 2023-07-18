@@ -1,6 +1,10 @@
 [
     {
-        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
+        "repo": "mo-jinran/chii-devtools",
+        "branch": "main"
+    },
+    {
+        "repo": "mo-jinran/window-on-top",
         "branch": "main"
     },
     {
@@ -12,7 +16,7 @@
         "branch": "main"
     },
     {
-        "repo": "mo-jinran/window-on-top",
+        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
         "branch": "main"
     }
 ]
