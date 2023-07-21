@@ -1,5 +1,9 @@
 [
     {
+        "repo": "xiyuesaves/lite_tools",
+        "branch": "main"
+    },
+    {
         "repo": "xinyihl/LiteLoaderQQNT-RemoveSidebar",
         "branch": "main"
     },
