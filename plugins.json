@@ -1,5 +1,9 @@
 [
     {
+        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
+        "branch": "v3"
+    },
+    {
         "repo": "mo-jinran/window-on-top",
         "branch": "v3"
     },
