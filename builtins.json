@@ -1,14 +1,14 @@
 [
     {
         "repo": "mo-jinran/LiteLoaderQQNT-Plugins-Marketplace",
-        "branch": "main"
+        "branch": "v3"
     },
     {
         "repo": "mo-jinran/LiteLoaderQQNT-Config-View",
-        "branch": "main"
+        "branch": "v3"
     },
     {
         "repo": "mo-jinran/LiteLoaderQQNT-Native-Style-Framework",
-        "branch": "main"
+        "branch": "v3"
     }
 ]
