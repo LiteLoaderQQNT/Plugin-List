@@ -1,5 +1,9 @@
 [
     {
+        "repo": "mo-jinran/linux-qqnt-background-blur",
+        "branch": "v2"
+    },
+    {
         "repo": "xiyuesaves/lite_tools",
         "branch": "main"
     },
