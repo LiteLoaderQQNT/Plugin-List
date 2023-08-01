@@ -62,5 +62,9 @@
     {
         "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
         "branch": "main"
+    },
+    {
+        "repo": "Nevodev/LL-Fluentify",
+        "branch": "0.0.3-v2"
     }
 ]
