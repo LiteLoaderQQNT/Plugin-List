@@ -14,5 +14,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "Nevodev/LL-Fluentify",
+        "branch": "v3"
     }
 ]
