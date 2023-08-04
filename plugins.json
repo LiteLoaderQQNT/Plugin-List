@@ -1,25 +1,5 @@
 [
     {
-        "repo": "mo-jinran/linux-qqnt-background-blur",
-        "branch": "v3"
-    },
-    {
-        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
-        "branch": "v3"
-    },
-    {
-        "repo": "mo-jinran/window-on-top",
-        "branch": "v3"
-    },
-    {
-        "repo": "mo-jinran/chii-devtools",
-        "branch": "v3"
-    },
-    {
-        "repo": "Nevodev/LL-Fluentify",
-        "branch": "v3"
-    },
-    {
         "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
         "branch": "master"
     },
@@ -46,5 +26,25 @@
     {
         "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
         "branch": "master"
+    },
+    {
+        "repo": "Nevodev/LL-Fluentify",
+        "branch": "v3"
+    },
+    {
+        "repo": "mo-jinran/linux-qqnt-background-blur",
+        "branch": "v3"
+    },
+    {
+        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
+        "branch": "v3"
+    },
+    {
+        "repo": "mo-jinran/window-on-top",
+        "branch": "v3"
+    },
+    {
+        "repo": "mo-jinran/chii-devtools",
+        "branch": "v3"
     }
 ]
