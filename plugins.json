@@ -46,5 +46,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "FW27623/remove_nav_sidebar",
+        "branch": "main"
     }
 ]
