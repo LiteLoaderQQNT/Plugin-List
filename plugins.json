@@ -1,5 +1,9 @@
 [
     {
+        "repo": "d0j1a1701/LiteLoaderQQNT-Markdown",
+        "branch": "v3"
+    },
+    {
         "repo": "FW27623/remove_nav_sidebar",
         "branch": "main"
     },
