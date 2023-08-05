@@ -1,5 +1,9 @@
 [
     {
+      "repo": "https://github.com/xiyuesaves/lite_tools",
+      "branch": "v3"
+    },
+    {
         "repo": "d0j1a1701/LiteLoaderQQNT-Markdown",
         "branch": "v3"
     },
