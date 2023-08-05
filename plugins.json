@@ -1,50 +1,54 @@
 [
     {
-        "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
+        "repo": "xh321/LiteLoaderQQNT-Anti-Recall"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-VConsole",
+        "repo": "xh321/LiteLoaderQQNT-VConsole"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-QR-Decode",
+        "repo": "xh321/LiteLoaderQQNT-QR-Decode"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-Kill-Update",
+        "repo": "xh321/LiteLoaderQQNT-Kill-Update"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
+        "repo": "xh321/LiteLoaderQQNT-Directly-Jump"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
+        "repo": "xh321/LiteLoaderQQNT-Background-Plugin"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
+        "repo": "xh321/LiteLoaderQQNT-Custom-CSS"，
         "branch": "master"
-    },
+    }，
     {
-        "repo": "Nevodev/LL-Fluentify",
+        "repo": "Nevodev/LL-Fluentify"，
+        "branch": "v3"
+    }，
+    {
+        "repo": "mo-jinran/linux-qqnt-background-blur"，
+        "branch": "v3"
+    }，
+    {
+        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme"，
+        "branch": "v3"
+    }，
+    {
+        "repo": "mo-jinran/window-on-top"，
+        "branch": "v3"
+    }，
+    {
+        "repo": "mo-jinran/chii-devtools"，
         "branch": "v3"
     },
-    {
-        "repo": "mo-jinran/linux-qqnt-background-blur",
-        "branch": "v3"
-    },
-    {
-        "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
-        "branch": "v3"
-    },
-    {
-        "repo": "mo-jinran/window-on-top",
-        "branch": "v3"
-    },
-    {
-        "repo": "mo-jinran/chii-devtools",
-        "branch": "v3"
+        {
+        "repo": "yige-yigeren/LiteLoaderQQNT-HighlightReplies"，
+        "branch": "main"
     }
 ]
