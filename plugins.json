@@ -1,5 +1,13 @@
 [
     {
+        "repo": "FW27623/remove_nav_sidebar",
+        "branch": "main"
+    },
+    {
+        "repo": "yige-yigeren/LiteLoaderQQNT-HighlightReplies",
+        "branch": "main"
+    },
+    {
         "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
         "branch": "master"
     },
@@ -46,9 +54,5 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
-    },
-    {
-        "repo": "FW27623/remove_nav_sidebar",
-        "branch": "main"
     }
 ]
