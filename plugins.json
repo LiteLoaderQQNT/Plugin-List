@@ -58,5 +58,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "mimocvb/LiteLoaderQQNT-MessageEdit",
+        "branch": "v3"
     }
 ]
