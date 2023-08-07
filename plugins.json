@@ -1,5 +1,9 @@
 [
     {
+        "repo": "mimocvb/LiteLoaderQQNT-MessageEdit",
+        "branch": "v3"
+    },
+    {
         "repo": "xiyuesaves/lite_tools",
         "branch": "v3"
     },
@@ -57,10 +61,6 @@
     },
     {
         "repo": "mo-jinran/chii-devtools",
-        "branch": "v3"
-    },
-    {
-        "repo": "mimocvb/LiteLoaderQQNT-MessageEdit",
         "branch": "v3"
     }
 ]
