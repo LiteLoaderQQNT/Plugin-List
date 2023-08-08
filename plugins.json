@@ -1,5 +1,13 @@
 [
     {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-RepeatMsg",
+        "branch": "master"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-LLAPI",
+        "branch": "main"
+    },
+    {
         "repo": "mimocvb/LiteLoaderQQNT-MessageEdit",
         "branch": "v3"
     },
