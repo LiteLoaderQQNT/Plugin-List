@@ -62,5 +62,13 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-RepeatMsg",
+        "branch": "master"
+    },
+    {
+        "repo": "https://github.com/Night-stars-1/LiteLoaderQQNT-Plugin-LLAPI",
+        "branch": "main"
     }
 ]
