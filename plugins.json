@@ -1,5 +1,9 @@
 [
     {
+        "repo": "festoney8/LiteLoaderQQNT-Telegram-Theme",
+        "branch": "v3"
+    },
+    {
         "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-RepeatMsg",
         "branch": "master"
     },
