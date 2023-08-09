@@ -90,5 +90,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "PRO-2684/transitio",
+        "branch": "main"
     }
 ]
