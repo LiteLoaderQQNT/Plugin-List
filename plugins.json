@@ -1,5 +1,9 @@
 [
     {
+        "repo": "yige-yigeren/LiteLoaderQQNT-HighlightReplies",
+        "branch": "v3"
+    },
+    {
         "repo": "ImZjm/LiteLoaderQQNT-Message-Show",
         "branch": "main"
     },
