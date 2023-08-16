@@ -1,5 +1,9 @@
 [
     {
+        "repo": "xjzh123/LiteLoaderQQNT-Eruda",
+        "branch": "main"
+    },
+    {
         "repo": "yige-yigeren/LiteLoaderQQNT-HighlightReplies",
         "branch": "v3"
     },
@@ -98,9 +102,5 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
-    },
-    {
-        "repo": "xjzh123/LiteLoaderQQNT-Eruda",
-        "branch": "main"
     }
 ]
