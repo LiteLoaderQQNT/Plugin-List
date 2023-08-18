@@ -1,5 +1,9 @@
 [
     {
+        "repo": "MUKAPP/LiteLoaderQQNT-DeepL",
+        "branch": "main"
+    },
+    {
         "repo": "xjzh123/LiteLoaderQQNT-Eruda",
         "branch": "main"
     },
