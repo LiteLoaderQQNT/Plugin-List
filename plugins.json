@@ -1,5 +1,9 @@
 [
     {
+        "repo": "GangPeter/LiteLoaderQQNT-Plugin-Msg-encode",
+        "branch": "v3"
+    },
+    {
         "repo": "MUKAPP/LiteLoaderQQNT-DeepL",
         "branch": "main"
     },
@@ -105,10 +109,6 @@
     },
     {
         "repo": "mo-jinran/chii-devtools",
-        "branch": "v3"
-    },
-    {
-        "repo": "GangPeter/LiteLoaderQQNT-Plugin-Msg-encode",
         "branch": "v3"
     }
 ]
