@@ -1,5 +1,9 @@
 [
     {
+        "repo": "GangPeter/LiteLoaderQQNT-Plugin-Msg-encode",
+        "branch": "main"
+    },
+    {
         "repo": "MUKAPP/LiteLoaderQQNT-DeepL",
         "branch": "main"
     },
