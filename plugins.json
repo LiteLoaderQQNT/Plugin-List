@@ -1,5 +1,9 @@
 [
     {
+        "repo": "PRO-2684/Scriptio",
+        "branch": "main"
+    },
+    {
         "repo": "GangPeter/LiteLoaderQQNT-Plugin-Msg-encode",
         "branch": "main"
     },
