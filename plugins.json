@@ -1,5 +1,9 @@
 [
     {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat",
+        "branch": "master"
+    },
+    {
         "repo": "PRO-2684/Scriptio",
         "branch": "main"
     },
