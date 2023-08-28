@@ -118,5 +118,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "bcmRayCrazy-coder/auto-sender",
+        "branch": "main"
     }
 ]
