@@ -1,5 +1,9 @@
 [
     {
+        "repo": "bcmRayCrazy-coder/auto-sender",
+        "branch": "main"
+    },
+    {
         "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat",
         "branch": "master"
     },
@@ -118,9 +122,5 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
-    },
-    {
-        "repo": "bcmRayCrazy-coder/auto-sender",
-        "branch": "latest"
     }
 ]
