@@ -1,5 +1,9 @@
 [
     {
+        "repo": "bcmRayCrazy-coder/stickerpp",
+        "branch": "main"
+    },
+    {
         "repo": "bcmRayCrazy-coder/auto-sender",
         "branch": "main"
     },
