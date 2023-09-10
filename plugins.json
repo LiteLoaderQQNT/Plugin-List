@@ -1,5 +1,9 @@
 [
     {
+        "repo": "yuyumoko/LiteLoaderQQNT-Plugin-Eencode",
+        "branch": "main"
+    },
+    {
         "repo": "xh321/LiteLoaderQQNT-Media-Local-View",
         "branch": "master"
     },
