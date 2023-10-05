@@ -70,5 +70,9 @@
     {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v3"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-QSticker",
+        "branch": "master"
     }
 ]
