@@ -1,5 +1,9 @@
 [
     {
+        "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
+        "branch": "v3"
+    },
+    {
         "repo": "yuyumoko/LiteLoaderQQNT-Plugin-Eencode",
         "branch": "main"
     },
