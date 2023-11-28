@@ -138,5 +138,9 @@
     {
         "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-QSticker",
         "branch": "master"
-    }
+    },
+    {
+        "repo": "HuoHuas001/CleanAutoReply",
+        "branch": "main"
+    },
 ]
