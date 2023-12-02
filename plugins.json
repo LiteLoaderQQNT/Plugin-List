@@ -138,5 +138,9 @@
     {
         "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-QSticker",
         "branch": "master"
+    },
+    {
+        "repo": "HHHHhgqcdxhg/LiteLoaderQQNT-image-search",
+        "branch": "master"
     }
 ]
