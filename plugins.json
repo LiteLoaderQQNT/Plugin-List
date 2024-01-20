@@ -6,5 +6,9 @@
     {
         "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
         "branch": "v4"
+    },
+    {
+        "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
+        "branch": "v4"
     }
 ]
