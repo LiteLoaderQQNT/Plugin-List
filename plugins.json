@@ -6,5 +6,13 @@
     {
         "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
         "branch": "v4"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-QQPromote",
+        "branch": "master"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-LLAPI",
+        "branch": "main"
     }
 ]
