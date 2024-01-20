@@ -22,5 +22,9 @@
     {
         "repo": "PRO-2684/transitio",
         "branch": "main"
+    },
+    {
+        "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
+        "branch": "v4"
     }
 ]
