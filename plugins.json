@@ -26,5 +26,9 @@
     {
         "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
         "branch": "v4"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Plugin-Store",
+        "branch": "master"
     }
 ]
