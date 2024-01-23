@@ -34,5 +34,9 @@
     {
         "repo": "mo-jinran/window-on-top",
         "branch": "v4"
+    },
+    {
+        "repo": "hacker-frok/LiteLoaderQQNT-Plugin-Nostalgic",
+        "branch": "main"
     }
 ]
