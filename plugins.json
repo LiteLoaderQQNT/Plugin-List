@@ -38,5 +38,33 @@
     {
         "repo": "hacker-frok/LiteLoaderQQNT-Plugin-Nostalgic",
         "branch": "main"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Anti-Recall",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Media-Local-View",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-QR-Decode",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Kill-Update",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Custom-CSS",
+        "branch": "master"
+    },
+    {
+        "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
+        "branch": "master"
     }
 ]
