@@ -66,5 +66,9 @@
     {
         "repo": "xh321/LiteLoaderQQNT-Background-Plugin",
         "branch": "master"
+    },
+    {
+        "repo": "hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn",
+        "branch": "main"
     }
 ]
