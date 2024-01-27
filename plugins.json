@@ -70,5 +70,9 @@
     {
         "repo": "hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn",
         "branch": "main"
+    },
+    {
+        "repo": "MUKAPP/LiteLoaderQQNT-DeepL",
+        "branch": "main"
     }
 ]
