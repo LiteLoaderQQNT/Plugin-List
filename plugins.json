@@ -74,5 +74,9 @@
     {
         "repo": "MUKAPP/LiteLoaderQQNT-DeepL",
         "branch": "main"
+    },
+    {
+        "repo": "qianxuu/LiteLoaderQQNT-Plugin-Demo-mode",
+        "branch": "main"
     }
 ]
