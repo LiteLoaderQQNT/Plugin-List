@@ -86,5 +86,9 @@
     {
         "repo": "xinyihl/LiteLoaderQQNT-JustF5",
         "branch": "main"
+    },
+    {
+        "repo": "xtaw/LiteLoaderQQNT-Audio-Sender",
+        "branch": "master"
     }
 ]
