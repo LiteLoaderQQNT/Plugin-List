@@ -90,5 +90,9 @@
     {
         "repo": "xtaw/LiteLoaderQQNT-Audio-Sender",
         "branch": "master"
+    },
+    {
+        "repo": "kagg886/QQRedPackGetter",
+        "branch": "master"
     }
 ]
