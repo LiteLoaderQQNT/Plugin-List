@@ -98,5 +98,9 @@
     {
         "repo": "MiyakoLol/MomoTalkNTQQ-Theme",
         "branch": "v4"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Message",
+        "branch": "main"
     }
 ]
