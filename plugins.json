@@ -102,5 +102,9 @@
     {
         "repo": "xtaw/LiteLoaderQQNT-Fake-Message",
         "branch": "master"
+    },
+    {
+        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Message",
+        "branch": "main"
     }
 ]
