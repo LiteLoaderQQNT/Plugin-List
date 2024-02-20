@@ -98,5 +98,9 @@
     {
         "repo": "MiyakoLol/MomoTalkNTQQ-Theme",
         "branch": "v4"
+    },
+    {
+        "repo": "xtaw/LiteLoaderQQNT-Fake-Message",
+        "branch": "master"
     }
 ]
