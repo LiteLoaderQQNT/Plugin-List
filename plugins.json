@@ -106,5 +106,9 @@
     {
         "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Message",
         "branch": "master"
+    },
+    {
+        "repo": "mo-jinran/more-materials",
+        "branch": "main"
     }
 ]
