@@ -110,5 +110,9 @@
     {
         "repo": "mo-jinran/more-materials",
         "branch": "main"
+    },
+    {
+        "repo": "ghostflyby/LiteLoaderQQNT-Native-Menu",
+        "branch": "main"
     }
 ]
