@@ -112,6 +112,10 @@
         "branch": "main"
     },
     {
+        "repo": "ghostflyby/LiteLoaderQQNT-Native-Menu",
+        "branch": "main"
+    },
+    {
         "repo": "lclichen/LiteLoaderQQNT-TTS",
         "branch": "main"
     }
