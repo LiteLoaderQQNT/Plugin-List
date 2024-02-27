@@ -118,5 +118,9 @@
     {
         "repo": "lclichen/LiteLoaderQQNT-TTS",
         "branch": "main"
+    },
+    {
+        "repo": "d0j1a1701/LiteLoaderQQNT-Markdown",
+        "branch": "v4"
     }
 ]
