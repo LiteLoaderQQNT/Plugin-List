@@ -126,5 +126,9 @@
     {
         "repo": "MisaLiu/LiteLoaderQQNT-QQCleaner",
         "branch": "master"
+    },
+    {
+        "repo": "MisaLiu/LiteLoaderQQNT-Pangu",
+        "branch": "master"
     }
 ]
