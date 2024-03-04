@@ -122,5 +122,9 @@
     {
         "repo": "d0j1a1701/LiteLoaderQQNT-Markdown",
         "branch": "v4"
+    },
+    {
+        "repo": "LLOneBot/LLOneBot",
+        "branch": "main"
     }
 ]
