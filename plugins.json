@@ -124,6 +124,14 @@
         "branch": "v4"
     },
     {
+        "repo": "MisaLiu/LiteLoaderQQNT-QQCleaner",
+        "branch": "master"
+    },
+    {
+        "repo": "MisaLiu/LiteLoaderQQNT-Pangu",
+        "branch": "master"
+    },
+    {
         "repo": "LLOneBot/LLOneBot",
         "branch": "main"
     }
