@@ -130,5 +130,9 @@
     {
         "repo": "MisaLiu/LiteLoaderQQNT-Pangu",
         "branch": "master"
+    },
+    {
+        "repo": "LLOneBot/LLOneBot",
+        "branch": "main"
     }
 ]
