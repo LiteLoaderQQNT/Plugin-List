@@ -134,5 +134,9 @@
     {
         "repo": "LLOneBot/LLOneBot",
         "branch": "main"
+    },
+    {
+        "repo": "2891954521/LiteLoaderQQNT-OneBotApi-JS",
+        "branch": "main"
     }
 ]
