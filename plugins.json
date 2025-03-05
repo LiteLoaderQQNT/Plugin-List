@@ -346,5 +346,9 @@
     {
         "repo": "XCWQW1/LiteLoaderQQNT-Theme-S4U",
         "branch": "main"
+    },
+    {
+        "repo": "scarletborder/LLQQNT-lib-moremenu",
+        "branch": "main"
     }
 ]
