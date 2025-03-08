@@ -349,6 +349,10 @@
     },
     {
         "repo": "scarletborder/LLQQNT-lib-moremenu",
+        "branch":  "main"
+    },
+    {
+        "repo": "KyuharuTE/ark_sender",
         "branch": "main"
     }
 ]
