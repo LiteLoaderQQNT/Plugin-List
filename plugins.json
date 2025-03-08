@@ -346,5 +346,9 @@
     {
         "repo": "XCWQW1/LiteLoaderQQNT-Theme-S4U",
         "branch": "main"
+    },
+    {
+        "repo": "KyuharuTE/ark_sender",
+        "branch":  "main"
     }
 ]
