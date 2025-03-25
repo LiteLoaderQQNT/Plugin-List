@@ -354,5 +354,9 @@
     {
         "repo": "KyuharuTE/ark_sender",
         "branch": "main"
+    },
+    {
+        "repo": "ZhouJump/qq-fuck-sidebar",
+        "branch": "master"
     }
 ]
