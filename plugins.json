@@ -358,5 +358,9 @@
     {
         "repo": "ZhouJump/qq-fuck-sidebar",
         "branch": "master"
+    },
+        {
+        "repo": "JoeYe-233/QQNT-LARGER-Close-Button",
+        "branch": "main"
     }
 ]
