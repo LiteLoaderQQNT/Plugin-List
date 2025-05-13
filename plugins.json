@@ -358,5 +358,9 @@
     {
         "repo": "ZhouJump/qq-fuck-sidebar",
         "branch": "master"
+    },
+    {
+        "repo": "scarletborder/LiteLoaderQQNT-ForceExit",
+        "branch": "main"
     }
 ]
