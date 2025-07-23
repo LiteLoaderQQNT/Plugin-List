@@ -362,5 +362,9 @@
     {
         "repo": "scarletborder/LiteLoaderQQNT-ForceExit",
         "branch": "main"
+    },
+    {
+        "repo": "KomoriDev/qq-wakatime",
+        "branch": "master"
     }
 ]
