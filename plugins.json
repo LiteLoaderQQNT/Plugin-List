@@ -116,10 +116,6 @@
         "branch": "master"
     },
     {
-        "repo": "LLOneBot/LLOneBot",
-        "branch": "main"
-    },
-    {
         "repo": "2891954521/LiteLoaderQQNT-OneBotApi-JS",
         "branch": "main"
     },
@@ -173,10 +169,6 @@
     },
     {
         "repo": "wangyz1999/LiteLoaderQQNT-GPT-Reply",
-        "branch": "main"
-    },
-    {
-        "repo": "lianquke/LiteLoaderQQNT-MessageEdit",
         "branch": "main"
     },
     {
