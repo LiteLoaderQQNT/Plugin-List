@@ -299,7 +299,7 @@
         "repo": "elegantland/qqMessageBlocker",
         "branch": "main"
     },
-    {   
+    {
         "repo": "elegantland/qqMessageSave",
         "branch": "main"
     },
@@ -329,7 +329,7 @@
     },
     {
         "repo": "scarletborder/LLQQNT-lib-moremenu",
-        "branch":  "main"
+        "branch": "main"
     },
     {
         "repo": "KyuharuTE/ark_sender",
@@ -350,5 +350,9 @@
     {
         "repo": "KomoriDev/qq-wakatime",
         "branch": "master"
+    },
+    {
+        "repo": "0-don/LiteLoaderQQNT-i18n",
+        "branch": "main"
     }
 ]
