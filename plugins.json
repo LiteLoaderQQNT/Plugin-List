@@ -354,5 +354,9 @@
     {
         "repo": "0-don/LiteLoaderQQNT-i18n",
         "branch": "main"
+    },
+        {
+        "repo": "MPGFTeam/LiteLoaderQQNT-QuickRestart",
+        "branch": "main"
     }
 ]
