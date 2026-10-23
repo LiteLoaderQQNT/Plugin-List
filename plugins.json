@@ -354,5 +354,13 @@
     {
         "repo": "0-don/LiteLoaderQQNT-i18n",
         "branch": "main"
+    },
+    {
+        "repo": "eacheat53/LiteLoaderQQNT-KDE-Theme-Sync",
+        "branch": "main"
+    },
+    {
+        "repo": "eacheat53/LiteLoaderQQNT-Tray-Account-Indicator",
+        "branch": "main"
     }
 ]
